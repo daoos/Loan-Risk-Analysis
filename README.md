@@ -25,5 +25,5 @@ FUTURISTIC SCOPE:
 3. May be helpful in predicting the character of the customer, but it would be very difficult to execute now.
 
 
-#Technology used
+# Technology used
 We used generalised classification for the machine training and then we came up with the svm and random forest classifiers to reduce  the errors. 
